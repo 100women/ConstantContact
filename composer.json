@@ -1,5 +1,5 @@
 {
-    "name": "100women/constantcontact",
+    "name": "women_in_finance/constantcontact",
     "description": "Object Oriented Wrapper for Constant Contact API V3",
     "minimum-stability": "stable",
     "keywords": ["Constant", "Contact", "API", "V3", "Object Oriented", "Object-Oriented"],
